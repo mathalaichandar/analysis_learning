@@ -1,0 +1,1 @@
+Keep files and other resources in this directory
